@@ -2,8 +2,8 @@
 
 **` 🚀 Desenvolvedor Back-end`**
 
-Me chamo Leonardo Henrique Bonfim, tenho 24 anos e moro em Osasco. Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-na Universidade Paulista e estudando C#, SQL e computação em nuvem com AWS. Além do GitHub, para mostrar os meus avanços
+Me chamo Leonardo Henrique Bonfim, tenho 24 anos e moro em Osasco. Sou formado em Análise e Desenvolvimento de Sistemas
+na Universidade Paulista e coloco em prática em meus projetos utilizando C#, SQL Server, Git e GitHub. Além do GitHub, para mostrar os meus avanços
 e aprendizados eu utilizo o meu LinkedIn "[Leonardo Henrique](https://www.linkedin.com/in/dev-leo/)".
 
 ---
