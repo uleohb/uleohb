@@ -48,8 +48,4 @@ Sistema de suporte técnico desenvolvido com .NET MAUI, C# e SQL Server.
   <a href="https://www.linkedin.com/in/dev-leo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="mailto:hbleon07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
