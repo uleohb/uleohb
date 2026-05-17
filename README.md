@@ -42,7 +42,7 @@ Sistema de suporte técnico desenvolvido com .NET MAUI, C# e SQL Server.
 
 ---
 
-## 📫 Contato
+## 📫 Contato e Portifólio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-leo/" target="_blank">
