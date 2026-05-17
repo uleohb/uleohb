@@ -5,8 +5,7 @@
 </p>
 
 <p align="left">
-Desenvolvedor focado na construção de aplicações web e APIs utilizando tecnologias do ecossistema .NET. 
-Atualmente desenvolvendo projetos Full Stack com ASP.NET Core, Razor Pages, Bootstrap e SQL Server, aplicando conceitos de back-end, autenticação de usuários, integração com banco de dados e desenvolvimento de interfaces modernas e responsivas.
+Desenvolvedor focado na construção de aplicações web e APIs utilizando tecnologias .NET. Atualmente desenvolvendo projetos Full Stack com ASP.NET Core, Razor Pages, Bootstrap e SQL Server, aplicando conceitos de back-end, autenticação de usuários, integração com banco de dados e interfaces modernas e responsivas.
 </p>
 
 ---
@@ -14,90 +13,21 @@ Atualmente desenvolvendo projetos Full Stack com ASP.NET Core, Razor Pages, Boot
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="left">
-  <img 
-    alt="C#" 
-    title="C#" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-  />
-
-  <img 
-    alt=".NET" 
-    title=".NET" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-  />
-
-  <img 
-    alt="SQL Server" 
-    title="SQL Server" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-  />
-
-  <img 
-    alt="MySQL" 
-    title="MySQL" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-  />
-
-  <img 
-    alt="HTML" 
-    title="HTML" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-  />
-
-  <img 
-    alt="CSS" 
-    title="CSS" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-  />
-
-  <img 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-  />
-
-  <img 
-    alt="Bootstrap" 
-    title="Bootstrap" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-  />
-
-  <img 
-    alt="Git" 
-    title="Git" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  />
-
-  <img 
-    alt="GitHub" 
-    title="GitHub" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-  />
-
-  <img 
-    alt="Visual Studio" 
-    title="Visual Studio" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-  />
-
-  <img 
-    alt="VS Code" 
-    title="VS Code" 
-    width="45px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-  />
+  <img alt="C#" title="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" title=".NET" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img alt="SQL Server" title="SQL Server" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="HTML" title="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Visual Studio" title="Visual Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
+
+---
 
 ## 📌 Principais Projetos
 
@@ -115,15 +45,11 @@ Sistema de suporte técnico desenvolvido com .NET MAUI, C# e SQL Server.
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/dev-leo/" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    />
+  <a href="https://www.linkedin.com/in/dev-leo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:hbleon07@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    />
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
 </p>
