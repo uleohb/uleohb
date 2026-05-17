@@ -50,6 +50,6 @@ Sistema de suporte técnico desenvolvido com .NET MAUI, C# e SQL Server.
   </a>
 
   <a href="mailto:hbleon07@gmail.com">
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbleon07@gmail.com)
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
