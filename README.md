@@ -13,107 +13,91 @@ Atualmente desenvolvendo projetos Full Stack com ASP.NET Core, Razor Pages, Boot
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-
-<img 
-    align="center" 
+<p align="left">
+  <img 
     alt="C#" 
     title="C#" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt=".NET" 
     title=".NET" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="SQL Server" 
     title="SQL Server" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="MySQL" 
     title="MySQL" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="HTML" 
     title="HTML" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="CSS" 
     title="CSS" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="JavaScript" 
     title="JavaScript" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="Bootstrap" 
     title="Bootstrap" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="Git" 
     title="Git" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="GitHub" 
     title="GitHub" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="Visual Studio" 
     title="Visual Studio" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-/>
+  />
 
-<img 
-    align="center" 
+  <img 
     alt="VS Code" 
     title="VS Code" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-/>
-
-</div>
-
----
+  />
+</p>
 
 ## 📌 Principais Projetos
 
