@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Leonardo Henrique
 
 <p align="left">
-  <strong>Desenvolvedor </strong | C# • ASP.NET Core • Razor Pages • Bootstrap • SQL Server
+  <strong>C# • ASP.NET Core • Razor Pages • Bootstrap • SQL Server </strong 
 </p>
 
 <p align="left">
